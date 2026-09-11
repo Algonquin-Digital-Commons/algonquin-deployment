@@ -1,0 +1,12 @@
+schemaVersion: 1
+institution:
+  slug: algonquin
+  displayName: Algonquin College
+deployment:
+  manifest: manifests/deployment-manifest.json
+  compatibilityLock: manifests/components.lock.yaml
+repositories:
+  organization: null
+  upstreamOrganization: null
+  remoteConfigurationPending: true
+

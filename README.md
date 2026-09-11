@@ -1,14 +1,14 @@
-# PSDC Institution Deployment Template
+# Algonquin FPSDC Deployment
 
-This independent template repository is forked once by each participating
-institution to create its sovereign deployment repository.
+This independent repository is Algonquin College's thin fork of the FPSDC
+institution deployment template.
 
 ## Owned here
 
-- approved institution branding and public URLs;
+- approved Algonquin branding and public URLs;
 - signed deployment-manifest source and release metadata;
 - environment composition and pinned Commons component versions;
-- institution identity, academic and campus adapter configuration;
+- Algonquin identity, academic and campus adapter configuration;
 - local policy overlays, federation peers and moderation configuration;
 - OpenTofu roots, Ansible inventories and environment runbooks; and
 - deployment-specific tests, evidence and rollback records.
