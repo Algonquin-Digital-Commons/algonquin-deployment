@@ -1,4 +1,4 @@
-# FPSDC Institution Deployment Template
+# PSDC Institution Deployment Template
 
 This independent template repository is forked once by each participating
 institution to create its sovereign deployment repository.
@@ -18,8 +18,8 @@ institution to create its sovereign deployment repository.
 - reusable Commons product source;
 - institutional secrets, private keys or production credentials;
 - copied shared schemas; or
-- modifications that should be contributed to an owning FPSDC repository.
+- modifications that should be contributed to an owning PSDC repository.
 
-This repository consumes signed releases from the independent `fpsdc-*`
+This repository consumes signed releases from the independent `psdc-*`
 repositories. Its compatibility lock must identify exact component and contract
 versions before any environment is deployed.
