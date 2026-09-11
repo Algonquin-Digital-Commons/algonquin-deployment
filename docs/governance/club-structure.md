@@ -27,7 +27,7 @@ Applications              — open web/OpenCode integrations, desktop/mobile cli
 UX                        — design, accessibility
 Academic Technology       — Brightspace integration, course tooling, faculty liaison
 Security & Privacy        — policy engine, data classification, auth review
-Distributed Systems       — sub-team, owns fpsdc-compute workspace
+Distributed Systems       — sub-team, owns psdc-compute workspace
 ```
 
 ## Why not two clubs immediately

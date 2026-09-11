@@ -1,6 +1,6 @@
-# Algonquin FPSDC Deployment
+# Algonquin PSDC Deployment
 
-This independent repository is Algonquin College's thin fork of the FPSDC
+This independent repository is Algonquin College's thin fork of the PSDC
 institution deployment template.
 
 ## Owned here
