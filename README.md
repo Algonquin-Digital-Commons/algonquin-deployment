@@ -23,3 +23,7 @@ institution deployment template.
 This repository consumes signed releases from the independent `psdc-*`
 repositories. Its compatibility lock must identify exact component and contract
 versions before any environment is deployed.
+
+The [institution site-profile input register](docs/governance/Institution-Site-Profile-Input-Register.md)
+shows which campus values and authority approvals are still missing. Nothing in
+that register authorizes a pilot or production deployment.

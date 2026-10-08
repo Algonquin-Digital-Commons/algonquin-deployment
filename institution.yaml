@@ -6,7 +6,7 @@ deployment:
   manifest: manifests/deployment-manifest.json
   compatibilityLock: manifests/components.lock.yaml
 repositories:
-  organization: null
-  upstreamOrganization: null
-  remoteConfigurationPending: true
+  organization: Algonquin-Digital-Commons
+  upstreamOrganization: Post-Secondary-Digital-Commons
+  remoteConfigurationPending: false
 
