@@ -27,3 +27,7 @@ versions before any environment is deployed.
 The [institution site-profile input register](docs/governance/Institution-Site-Profile-Input-Register.md)
 shows which campus values and authority approvals are still missing. Nothing in
 that register authorizes a pilot or production deployment.
+
+An [illustrative Algonquin compute manifest](examples/compute/README.md)
+shows institution-specific example values without putting them in the Common
+conformance fixtures. It is synthetic and is not deployment authorization.
